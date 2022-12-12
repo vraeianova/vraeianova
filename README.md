@@ -18,5 +18,5 @@ BTW, if you´re looking for a Django starter, take a look at this [Django boiler
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cris-arias-17a770ab/)]([https://www.linkedin.com/in/diogorodrigues0](https://www.linkedin.com/in/cris-arias-17a770ab/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vraeianova)](https://twitter.com/vraeianova)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cris-arias-17a770ab/)](https://www.linkedin.com/in/cris-arias-17a770ab/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vraeianova)](https://twitter.com/vraeianova)
 
