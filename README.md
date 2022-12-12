@@ -1,3 +1,6 @@
+
+### <img src="https://github.com/vraeianova/vraeianova/blob/main/static/banner.png?raw=true">
+
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Cris Arias](https://www.ariasover.com/#about)!
 
 I work as a Full-Stack Developer. I´m based in San Pedro Sula, Honduras.
@@ -8,7 +11,7 @@ Since 2018 I've been living and breathing web development and creating backend a
 
 Currently improving my VueJS skills.<br />
 
-BTW, if you´re looking for a Django starter, take a look at this [Django boilerplate that I created](https://github.com/diogorodrigues/nextjs-typescript-starter).
+BTW, if you´re looking for a Django starter, take a look at this [Django boilerplate that I created](https://github.com/vraeianova/Django-Boilerplate).
 
 ### See Wordpress web that i made 😃🧾
 <!-- BLOG-POST-LIST:START -->
