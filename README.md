@@ -9,15 +9,9 @@ Since 2018 I've been living and breathing web development and creating backend a
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my VueJS skills.<br />
+Currently improving my VueJS and Docker skills.<br />
 
 BTW, if you´re looking for a Django starter, take a look at this [Django boilerplate that I created](https://github.com/vraeianova/Django-Boilerplate).
-
-### See Wordpress web that i made 😃🧾
-<!-- BLOG-POST-LIST:START -->
-- [Inversiones Dinero Urgente](https://www.inversionesdinerourgente.com)
-- [Hospital DIME](https://www.hospitaldime.com)
-<!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
 
