@@ -9,7 +9,7 @@ Since 2018 I've been living and breathing web development and creating backend a
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my VueJS and Docker skills.<br />
+Currently learning FastAPI, VueJS and Docker.<br />
 
 BTW, if you´re looking for a Django starter, take a look at this [Django boilerplate that I created](https://github.com/vraeianova/Django-Boilerplate).
 
