@@ -1,5 +1,5 @@
 
-### <img src="https://github.com/vraeianova/vraeianova/blob/main/static/banner.png?raw=true">
+### <img src="https://github.com/vraeianova/vraeianova/blob/main/static/new_banner.png?raw=true">
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Cris Arias](https://www.ariasover.com/#about)!
 
