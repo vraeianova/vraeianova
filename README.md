@@ -1,9 +1,9 @@
 
 ### <img src="https://github.com/vraeianova/vraeianova/blob/main/static/new_banner.png?raw=true">
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Cris Arias](https://www.ariasover.com/#about)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Cris Arias
 
-I work as a Full-Stack Developer. I´m based in San Pedro Sula, Honduras.
+I work as a Freelance Fullstack Developer. I´m based in San Pedro Sula, Honduras.
 
 Since 2018 I've been living and breathing web development and creating backend and frontend software. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through code. ✨😍
 
