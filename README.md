@@ -14,12 +14,12 @@ Currently learning FastAPI, VueJS and Docker and Odoo<br />
 BTW, if you´re looking for a Django starter, take a look at this [Django boilerplate that I created](https://github.com/vraeianova/Django-Boilerplate).
 
 
-### Languages 
+### Languages </>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Frameworks
+### Frameworks ⚡
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 
