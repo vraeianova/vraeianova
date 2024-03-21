@@ -9,11 +9,40 @@ Since 2018 I've been living and breathing web development and creating backend a
 
 ### What I'm focusing on 👨‍💻
 
-Currently learning FastAPI, VueJS and Docker.<br />
+Currently learning FastAPI, VueJS and Docker and Odoo<br />
 
 BTW, if you´re looking for a Django starter, take a look at this [Django boilerplate that I created](https://github.com/vraeianova/Django-Boilerplate).
 
+
+### Languages 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Frameworks
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+
+
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cris-arias-17a770ab/)](https://www.linkedin.com/in/cris-arias-17a770ab/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vraeianova)](https://twitter.com/vraeianova)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
 
+
+### Utilities 🛠️
+
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+#### DevOps 🚀
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+
+
+#### Business 💡
+
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
